@@ -7,7 +7,7 @@
       <?php
         $tens = array(10, 20, 30, 40, 50);
 
-        echo $tens{2}
+        echo $tens{2};
       ?>
     </p>
   </body>
